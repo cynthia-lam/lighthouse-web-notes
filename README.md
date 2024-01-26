@@ -24,3 +24,10 @@ Here is a [link](l2l.ca)!
 
 * [Week 1](/Week_1/)
   * [Day 1](/Week_1/Day_1/)
+
+```javascript
+  function whatToDoForLunch(hungry, availableTime) {
+  console.log("hungry is", hungry);
+  console.log("availableTime is", availableTime);
+}
+```
